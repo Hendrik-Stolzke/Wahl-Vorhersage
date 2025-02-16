@@ -23,3 +23,4 @@ Zum aktuellen Zeitpunkt besteht die Möglichkeit, die Daten als CSV-Datei herunt
 ## Anmerkung
 
 Bitte beachten Sie, dass die Ergebnisse der Vorhersage auf historischen Daten basieren und die tatsächlichen Wahlergebnisse variieren können. Es wird empfohlen, die Daten regelmäßig zu aktualisieren, um die Vorhersagen aktuell zu halten.
+Kein Gewähr auf falsche Vorhersage oder Code Fehlern!
